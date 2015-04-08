@@ -1,0 +1,30 @@
+{
+  "name": "karma-unexpected",
+  "description": "Unexpected for Karma",
+  "keywords": [
+    "karma",
+    "karma-plugin",
+    "unexpected",
+    "mocha",
+    "test",
+    "tdd",
+    "expect",
+    "assertion"
+  ],
+  "version": "0.0.1",
+  "author": "Marco Pegoraro <marco.pegoraro@gmail.com> (http://noblackmagic.com)",
+  "main": "./index.js",
+  "license": "MIT",
+  "homepage": "http://marcopeg.github.io/karma-unexpected",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcopeg/karma-unexpected.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marcopeg/karma-unexpected/issues"
+  },
+  "peerDependencies": {
+    "unexpected": "*",
+    "karma": ">=0.10.9"
+  }
+}
