@@ -11,7 +11,7 @@
     "expect",
     "assertion"
   ],
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Marco Pegoraro <marco.pegoraro@gmail.com> (http://noblackmagic.com)",
   "main": "./index.js",
   "license": "MIT",
